@@ -19,7 +19,7 @@ docker run --rm -ti -v $(pwd):/workdir ghcr.io/alastairhm/ansible-lint ./one.yam
 Setup an alias
 
 ```bash
-alias yl 'docker run --rm -ti -v "$PWD:/workdir" ghcr.io/alastairhm/ansible-lint'
+alias ansible-lint 'docker run --rm -ti -v "$PWD:/workdir" ghcr.io/alastairhm/ansible-lint'
 ```
 
 ```text
