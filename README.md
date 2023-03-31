@@ -2,6 +2,8 @@
 
 ## A Docker image for `ansible-lint`
 
+[![Deploy Docker](https://github.com/alastairhm/ansible-lint/actions/workflows/deploy.yml/badge.svg)](https://github.com/alastairhm/ansible-lint/actions/workflows/deploy.yml)
+
 This repository provides an automated build for a lean [ansible-lint](https://ansible-lint.readthedocs.io/) Docker image.
 
 ## Usage
